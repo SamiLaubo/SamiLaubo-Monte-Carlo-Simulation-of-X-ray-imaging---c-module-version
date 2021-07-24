@@ -1,0 +1,4 @@
+cmake-example==0.0.1
+pip==21.1.1
+pybind11==2.6.2
+setuptools==56.0.0
