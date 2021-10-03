@@ -35,5 +35,5 @@
 .venv
 .vscode
 src/cpp/pybind11
-src/cpp/build
+src/cpp/build/*
 !src/cpp/build/Release
