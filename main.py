@@ -1,5 +1,8 @@
 from src.python.funcs import imaging
 
+from IPython.display import set_matplotlib_formats
+set_matplotlib_formats('svg')
+
 imaging(
     1,                  # Object number
     [20, 50, 100],      # Energies
